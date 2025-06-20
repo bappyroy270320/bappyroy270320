@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP, WordPress**
 
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **roybappy63@gmail.com**
 
 - 👨‍💻 Portfolio: [YourPortfolio.com](https://yourportfolio.com)
 
