@@ -1,6 +1,6 @@
 ![👑 I am Web Developer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjACALim68lm5D3mXkET9us8VFP3WB6TZTQG4Reuwe6nefMCTrdMtJ2z5PdxnaiGDpKR27YR8ojz_cRWUArpA2x5aP_PDRExZKdECAd4zqa347YktsEMdgpfSneHAOjYxGLiiEk2qy5IKLG0y5J-nGjkUrzaNEXX49bay4_FAi906kM0grMaIXv7_KyZQ/s1500/Md%20Hafijur%20Rahoman.png)
 
-<h1 align="center">Hi 👋, I'm Md Hafijur Rahoman</h1>
+<h1 align="center">Hi 👋, I'm Bappy Roy</h1>
 <h3 align="center">I am Web Developer from Bangladesh</h3>
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
