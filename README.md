@@ -21,7 +21,7 @@
 <br/>
 <br/>
 
-## :mailbox: Contact with us
+## :mailbox: Contact with me
 
 <br/>
 <br/>
