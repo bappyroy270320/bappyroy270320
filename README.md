@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-*<p align="center"> [<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/website.png">](https://web.programming-hero.com)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/facebook.png">](https://www.facebook.com/programmingherowebcourse)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png">](https://www.linkedin.com/company/programminghero/mycompany/) </p>*
+*<p align="center"> [<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/website.png">](#)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/facebook.png">](#)[<img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/linkedin.png">](#) </p>*
 
 <br/>
 <br/>
@@ -55,7 +55,7 @@
 <br />
 
 <p align="center">
-<a href="https://web.programming-hero.com/course-details">
+<a href="#">
 <img height="55" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/curriculum.png"/>
 </a>
 </p>
@@ -65,7 +65,7 @@
 
 ## :globe_with_meridians: My community_
 
-*<p align="center"> [<img width="350" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/community-fb.png">](https://www.facebook.com/groups/programmingherocommunity/)[<img  width="350" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/community-yt.png">](https://www.youtube.com/@ProgrammingHeroCommunity) </p>*
+*<p align="center"> [<img width="350" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/community-fb.png">](#)[<img  width="350" src="https://raw.githubusercontent.com/ProgrammingHero1/ProgrammingHero1/main/image/community-yt.png">](#) </p>*
 
 <br/>
 <br/>
